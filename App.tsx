@@ -9,7 +9,7 @@ const App = () => {
       <AppNavigator />
     </View>
   );
-};
+}; 
 
 const styles = StyleSheet.create({
   container: {
